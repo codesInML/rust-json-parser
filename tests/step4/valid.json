@@ -1,0 +1,6 @@
+{
+  "key": "value",
+  "key-n": 101,
+  "key-o": {},
+  "key-l": ["name", 123, { "name": "some", "num": [12, true, null] }, []]
+}
