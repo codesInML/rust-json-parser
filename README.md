@@ -1,6 +1,6 @@
 ## A JSON Parser built with Rust
 
-It takes a path to a JSON file as an argument, parses it and breaks if an invalid token was encounter.
+It takes a path to a JSON file as an argument, parses it and exits with non zero code if an invalid token was encounter.
 
 Simply clone the repo and run
 
